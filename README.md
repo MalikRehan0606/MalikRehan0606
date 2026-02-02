@@ -56,10 +56,21 @@ Unity (Game Development Basics)
 A modern typing platform focused on performance, analytics, and user improvement.  
 🌐 Live: https://typezilla.qzz.io  
 
-### 🏏 CIA – Cricket Intelligence Association
+### 🏏  – Cricket Intelligence Association
 An intelligence platform applying analytics and AI concepts to cricket data.  
 🌐 Website: https://x-cia.in  
 
+###  Health Check
+Interactive Web App
+
+Built a AI-powered health & nature assistant that identifies plants, animals, medicines, and health conditions from images or symptoms, with care tips and AI insights.Includes vitals tracking, doctor search by specialty, medicine scheduling, and secure user authentication.
+🌐 Website: https://www.x-way.in/
+
+### Housie Empire
+Interactive Web App
+
+Built aHousie Empire is a live social gaming platform featuring Classic Housie (Tambola) alongside AI-powered Bollywood games like Swar Challenge and Dialogue Guessing.Built with role-based dashboards for Players, Organizers, and Owner, enabling real-time gameplay, hosting, and full platform control.
+🌐 Website: https://www.housiegame.in/
 ---
 
 ## 🌐 Portfolio
@@ -72,7 +83,7 @@ All projects, experiments, and case studies:
 ## 📬 Contact
 
 - 📧 Email: **imalikrehan8@gmail.com**
-- 📸 Instagram: **@m_a_l_i_k_c_0_d_e_s**
+- 📸 Instagram: **https://www.instagram.com/coded_by_malik**
 
 ---
 
