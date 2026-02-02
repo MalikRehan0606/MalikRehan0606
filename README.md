@@ -1,31 +1,98 @@
-<h1 align="center">Hi 👋, I'm MALIK REHAN</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Malik Rehan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikrehan0606&label=Profile%20views&color=29e802&style=flat-square" alt="malikrehan0606" /> </p>
-
-- 🔭 I’m currently working on [typezilla](typezilla.qzz.io)
-
-- 👯 I’m looking to collaborate on [CIA(Cricket Intelligence Association](x-cia.in)
-
-- 🤝 I’m looking for help with [CIA](x-cia.in)
-
-- 👨‍💻 All of my projects are available at [https://malikportfolio.qzz.io/](https://malikportfolio.qzz.io/)
-
-- 💬 Ask me about **React,Firebase,Rest API,Html,Css3,Tailwind CSS, Typescript, Node.js JavaScript,git**
-
-- 📫 How to reach me **imalikrehan8@gmail.com**
-
-- ⚡ Fun fact **Fast Learner, Interested in Practical rather the theoritical**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/m_a_l_i_k_c_0_d_e_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/m_a_l_i_k_c_0_d_e_s" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=29E802&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Product-Oriented+Engineer;Building+Production-Grade+Apps;Practical+Learning+Over+Theory;Fast+Learner+%7C+Fast+Executor" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://typezilla.qzz.io">
+    <img src="https://img.shields.io/badge/Live_Project-Typezilla-29e802?style=for-the-badge" />
+  </a>
+  <a href="https://malikportfolio.qzz.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:imalikrehan8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikrehan0606&show_icons=true&title_color=f90b0b&locale=en&layout=compact" alt="malikrehan0606" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malikrehan0606&label=Profile%20Views&color=29e802&style=flat-square" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrehan0606&show_icons=true&locale=en" alt="malikrehan0606" /></p>
+---
 
+## 👋 About Me
+
+I am a **Full-Stack Developer from India** who focuses on **building real, usable, production-ready software** rather than demo-only projects.
+
+- 🚀 End-to-end product builder (frontend → backend → deployment)
+- 🧠 Strong believer in **hands-on engineering**
+- ⚡ Fast learner with strong execution mindset
+- 🤝 Open to collaboration, startups, and impactful ideas
+- 🏏 Actively working on **Cricket Intelligence Association (CIA)**
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Frontend
+React • Next.js • TypeScript • JavaScript  
+HTML5 • CSS3 • Tailwind CSS  
+
+### Backend
+Node.js • Firebase • REST APIs  
+Django • Python  
+
+### Databases & Tools
+MySQL • Git & GitHub • Postman  
+Unity (Game Development Basics)
+
+---
+
+## 🚀 Projects
+
+### 🔥 Typezilla
+A modern typing platform focused on performance, analytics, and user improvement.  
+🌐 Live: https://typezilla.qzz.io  
+
+### 🏏 CIA – Cricket Intelligence Association
+An intelligence platform applying analytics and AI concepts to cricket data.  
+🌐 Website: https://x-cia.in  
+
+---
+
+## 🌐 Portfolio
+
+All projects, experiments, and case studies:  
+👉 https://malikportfolio.qzz.io  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **imalikrehan8@gmail.com**
+- 📸 Instagram: **@m_a_l_i_k_c_0_d_e_s**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malikrehan0606&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrehan0606&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikrehan0606&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>Build. Ship. Improve. Repeat.</strong>
+</p>
