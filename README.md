@@ -76,8 +76,6 @@ All projects, experiments, and case studies:
 
 ---
 
-## 📊 GitHub Statistics
-
 ## 📊 GitHub Overview
 
 <p align="center">
