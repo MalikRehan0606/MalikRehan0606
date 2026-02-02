@@ -78,9 +78,12 @@ All projects, experiments, and case studies:
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikrehan0606&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrehan0606&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/Repositories-Active-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Commits-Consistent-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-orange?style=flat-square"/>
 </p>
 
 ---
